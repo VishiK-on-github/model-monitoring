@@ -12,7 +12,7 @@ docker-compose up
 
 docker-compose down | stop
 
-# To start mock data monitoring script
+# To start mock data monitoring script:
 
 1. Start the containers using docker compose
 2. Activate virtual environment in another terminal window
